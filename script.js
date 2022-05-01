@@ -26,7 +26,7 @@ const day = hour * 24;
 function slowDownVideoBackGround(number) {
   video.playbackRate = number;
 }
-slowDownVideoBackGround(1.1)
+slowDownVideoBackGround(1.1);
 
 // set date input with todays date
 const today = new Date().toISOString().split("T")[0];
