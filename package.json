@@ -4,7 +4,8 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "npm run build"
+    "start":"npm start",
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",
