@@ -1,0 +1,20 @@
+{
+  "name": "custom-countdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clyde-Matthew/Custom-Countdown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clyde-Matthew/Custom-Countdown/issues"
+  },
+  "homepage": "https://github.com/Clyde-Matthew/Custom-Countdown#readme"
+}
